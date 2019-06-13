@@ -1,0 +1,22 @@
+{
+  "name": "HMADFramework",
+  "version": "0.1.0",
+  "summary": "A short description of HMADFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/myCout/HMADFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "myCout": "yuandu86@163.com"
+  },
+  "source": {
+    "git": "https://github.com/myCout/HMADFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HMADFramework/Classes/**/*"
+}

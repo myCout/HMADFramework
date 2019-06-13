@@ -1,0 +1,6 @@
+framework module CTAnalysisSDK {
+  umbrella header "CTAnalysisSDK.h"
+
+  export *
+  module * { export * }
+}
