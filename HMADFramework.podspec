@@ -31,7 +31,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '9.0'
 
   s.source_files = 'HMADFramework/Classes/**/*'
-  s.vendored_frameworks = 'PodDemo01/Framework/*.framework'
+  s.vendored_frameworks = 'HMADFramework/Framework/*.framework'
   # s.resource_bundles = {
   #   'HMADFramework' => ['HMADFramework/Assets/*.png']
   # }
